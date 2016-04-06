@@ -1,2 +1,2 @@
 # MySnake
-My implementation of classic snake game
+My implementation of classic snake game using Java
